@@ -2,8 +2,8 @@
 
 A fully-featured Minesweeper game built with vanilla HTML, CSS, and JavaScript. No frameworks, no dependencies.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Play%20Now-brightgreen?style=for-the-badge)](https://rakibulislamnayan.github.io/minesweeper-js)
-[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/rakibulislamnayan/minesweeper-js)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Play%20Now-brightgreen?style=for-the-badge)](https://nayanymous.github.io/minesweeper-js)
+[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/nayanymous/minesweeper-js)
 
 ***
 
@@ -27,7 +27,7 @@ A fully-featured Minesweeper game built with vanilla HTML, CSS, and JavaScript. 
 
 ## 🚀 Live Demo
 
-👉 [Play it here](https://rakibulislamnayan.github.io/minesweeper-js)
+👉 [Play it here](https://nayanymous.github.io/minesweeper-js)
 
 ***
 
@@ -95,7 +95,7 @@ minesweeper-js/
 ## ▶️ Run Locally
 
 ```bash
-git clone https://github.com/rakibulislamnayan/minesweeper-js.git
+git clone https://github.com/nayanymous/minesweeper-js.git
 cd minesweeper-js
 open index.html
 ```
@@ -107,7 +107,7 @@ open index.html
 1. Push this repo to GitHub
 2. Go to **Settings → Pages**
 3. Set source to `main` branch, `/ (root)`
-4. Live at `https://rakibulislamnayan.github.io/minesweeper-js`
+4. Live at `https://nayanymous.github.io/minesweeper-js`
 
 ***
 
@@ -125,6 +125,6 @@ open index.html
 
 ## 📬 Connect
 
-Made by **Md. Rakibul Islam Nayan** · [LinkedIn](https://www.linkedin.com/in/rakibul-islam-nayan/) · [GitHub](https://github.com/rakibulislamnayan)
+Made by **Md. Rakibul Islam Nayan** · [LinkedIn](https://www.linkedin.com/in/rakibul-islam-nayan/) · [GitHub](https://github.com/nayanymous)
 
 > If you like it, please ⭐ star the repo. It means a lot!
